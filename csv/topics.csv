@@ -1,16 +1,16 @@
-Topic,Subtopic
-Mapping based Knowledge Graph Generation,Mapping languages for generating Knowledge Graph from legacy datasets
-Mapping based Knowledge Graph Generation,Approaches and techniques on (semi)automatically generate mappings
-Mapping based Knowledge Graph Generation,Approaches and techniques on collaborative mappings generation
-Mapping based Knowledge Graph Generation,Approaches and techniques on exploiting mappings for query answering
-Tools for Knowledge Graph Generation,"End User Interfaces (UI) for (collaborative) editing and viewing 
+id,name,subtopic
+mapping-based-knowledge-graph-generation,Mapping based Knowledge Graph Generation,Mapping languages for generating Knowledge Graph from legacy datasets
+mapping-based-knowledge-graph-generation,Mapping based Knowledge Graph Generation,Approaches and techniques on (semi)automatically generate mappings
+mapping-based-knowledge-graph-generation,Mapping based Knowledge Graph Generation,Approaches and techniques on collaborative mappings generation
+mapping-based-knowledge-graph-generation,Mapping based Knowledge Graph Generation,Approaches and techniques on exploiting mappings for query answering
+tools-for-knowledge-graph-generation,Tools for Knowledge Graph Generation,"End User Interfaces (UI) for (collaborative) editing and viewing 
 for Knowledge Graphs building rules and management platforms in general"
-Tools for Knowledge Graph Generation,Architectures for Knowledge Graph generation systems
-Methods and Techniques for Knowledge Graph Generation,(Sustainable) workflows for Web scale Knowledge Graph generation & publishing
-Methods and Techniques for Knowledge Graph Generation,Seamless (distributed) integration/interlinking from heterogeneous data sources
-Methods and Techniques for Knowledge Graph Generation,Dynamic discovery and retrieval of data for KG generation
-Methods and Techniques for Knowledge Graph Generation,"Quality, Provenance, privacy and trustworthiness of Linked Data generation"
-Methods and Techniques for Knowledge Graph Generation,Knowledge Graph generation and publishing of streaming data at run-time
-Methods and Techniques for Knowledge Graph Generation,Benchmarks for Knowledge Graphs generation and publishing
-"Lessons learnt, In Use and Experience","Experience, lessons learnt and best practices for generating and publishing"
-"Lessons learnt, In Use and Experience",Negative results and in-use/applied descriptions
+tools-for-knowledge-graph-generation,Tools for Knowledge Graph Generation,Architectures for Knowledge Graph generation systems
+methods-and-techniques-for-knowledge-graph-generation,Methods and Techniques for Knowledge Graph Generation,(Sustainable) workflows for Web scale Knowledge Graph generation & publishing
+methods-and-techniques-for-knowledge-graph-generation,Methods and Techniques for Knowledge Graph Generation,Seamless (distributed) integration/interlinking from heterogeneous data sources
+methods-and-techniques-for-knowledge-graph-generation,Methods and Techniques for Knowledge Graph Generation,Dynamic discovery and retrieval of data for KG generation
+methods-and-techniques-for-knowledge-graph-generation,Methods and Techniques for Knowledge Graph Generation,"Quality, Provenance, privacy and trustworthiness of Linked Data generation"
+methods-and-techniques-for-knowledge-graph-generation,Methods and Techniques for Knowledge Graph Generation,Knowledge Graph generation and publishing of streaming data at run-time
+methods-and-techniques-for-knowledge-graph-generation,Methods and Techniques for Knowledge Graph Generation,Benchmarks for Knowledge Graphs generation and publishing
+lessons-learnt-in-use-and-experience,"Lessons learnt, In Use and Experience","Experience, lessons learnt and best practices for generating and publishing"
+lessons-learnt-in-use-and-experience,"Lessons learnt, In Use and Experience",Negative results and in-use/applied descriptions
