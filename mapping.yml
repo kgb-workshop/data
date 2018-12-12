@@ -1,7 +1,7 @@
 mappings:
   workshops:
-    source:
-      - [data/general-info.csv~csv]
+    sources:
+      - ['csv/general-info.csv~csv']
     s: http://kbg.rml.io/resources/Event/$(id)
     po:
       - [a, schema:Event]
@@ -13,35 +13,41 @@ mappings:
       - [schema:superEvent, $(superEvent)]
 
   topics:
-    source:
-      - [data/topics.csv~csv]
+    sources:
+      - ['csv/topics.csv~csv']
     s: http://kgb.rml.io/resources/Topic/$(id)
     po: 
-      - [a,schema:CreativeWork]
-      - [schema:mainEntity, $(topic)]
-      - [schema:keyword, $(subtopic)]
+      - [a, schema:CreativeWork]
+      - [schema:mainEntity, $(name)]
+     
+  subtopics:
+    sources:
+      - ['csv/subtopics.csv~csv']
+    s: http://kgb.rml.io/resources/Topic/$(id)
+    po: 
+       - [schema:keyword, $(subtopic)]
   pc:
-    source:
-      - [data/pc.csv~csv]
+    sources:
+      - ['csv/pc.csv~csv']
     s: http//kgb.rml.io/resources/ProgramChair/$(id)
     po:
-      - [a,schema:Person]
+      - [a, schema:Person]
       - [schema:name, $(name)]
       - [schema:memberOf, $(organization)]
   dates:
-    source:
-      - [data/important-dates.csv~csv]
+    sources:
+      - ['csv/important-dates.csv~csv']
     s: http//kgb.rml.io/resources/ImportantDates/$(date)
     po:
-      - [a,schema:Event]
+      - [a, schema:Event]
       - [schema:about, $(event)]
       - [schema:startDate, $(date)]
   organizers:
-    source:
-      - [data/organizers.csv~csv]
+    sources:
+      - ['csv/organizers.csv~csv']
     s: http//kgb.rml.io/resources/Organizer/$(id)
     po:
-      - [a,schema:Person]
+      - [a, schema:Person]
       - [schema:name, $(name)]
       - [schema:url, $(webpage)]
       - [schema:sameAs, $(twitter)]

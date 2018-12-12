@@ -1,0 +1,117 @@
+<http://kbg.rml.io/resources/Event/kgb2019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
+<http://kbg.rml.io/resources/Event/kgb2019> <http://schema.org/about> "Workshop on Knowledge Graph Building".
+<http://kbg.rml.io/resources/Event/kgb2019> <http://schema.org/duration> "P0T8H".
+<http://kbg.rml.io/resources/Event/kgb2019> <http://schema.org/startDate> "2019-06-03".
+<http://kbg.rml.io/resources/Event/kgb2019> <http://schema.org/endDate> "2019-06-03".
+<http://kbg.rml.io/resources/Event/kgb2019> <http://schema.org/location> "Portorož, Slovenia".
+<http://kbg.rml.io/resources/Event/kgb2019> <http://schema.org/superEvent> "Extended Semantic Web Conference 2019".
+<http://kgb.rml.io/resources/Topic/mapping-based-knowledge-graph-generation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork>.
+<http://kgb.rml.io/resources/Topic/mapping-based-knowledge-graph-generation> <http://schema.org/mainEntity> "Mapping based Knowledge Graph Generation".
+<http://kgb.rml.io/resources/Topic/tools-for-knowledge-graph-generation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork>.
+<http://kgb.rml.io/resources/Topic/tools-for-knowledge-graph-generation> <http://schema.org/mainEntity> "Tools for Knowledge Graph Generation".
+<http://kgb.rml.io/resources/Topic/methods-and-techniques-for-knowledge-graph-generation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork>.
+<http://kgb.rml.io/resources/Topic/methods-and-techniques-for-knowledge-graph-generation> <http://schema.org/mainEntity> "Methods and Techniques for Knowledge Graph Generation".
+<http://kgb.rml.io/resources/Topic/lessons-learnt-in-use-and-experience> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork>.
+<http://kgb.rml.io/resources/Topic/lessons-learnt-in-use-and-experience> <http://schema.org/mainEntity> "Lessons learnt, In Use and Experience".
+<http://kgb.rml.io/resources/Topic/mapping-based-knowledge-graph-generation> <http://schema.org/keyword> "Mapping languages for generating Knowledge Graph from legacy datasets".
+<http://kgb.rml.io/resources/Topic/mapping-based-knowledge-graph-generation> <http://schema.org/keyword> "Approaches and techniques on (semi)automatically generate mappings".
+<http://kgb.rml.io/resources/Topic/mapping-based-knowledge-graph-generation> <http://schema.org/keyword> "Approaches and techniques on collaborative mappings generation".
+<http://kgb.rml.io/resources/Topic/mapping-based-knowledge-graph-generation> <http://schema.org/keyword> "Approaches and techniques on exploiting mappings for query answering".
+<http://kgb.rml.io/resources/Topic/mapping-based-knowledge-graph-generation> <http://schema.org/keyword> "End User Interfaces (UI) for (collaborative) editing and viewing  for Knowledge Graphs building rules and management platforms in general".
+<http://kgb.rml.io/resources/Topic/tools-for-knowledge-graph-generation> <http://schema.org/keyword> "Architectures for Knowledge Graph generation systems".
+<http://kgb.rml.io/resources/Topic/tools-for-knowledge-graph-generation> <http://schema.org/keyword> "(Sustainable) workflows for Web scale Knowledge Graph generation & publishing".
+<http://kgb.rml.io/resources/Topic/methods-and-techniques-for-knowledge-graph-generation> <http://schema.org/keyword> "Seamless (distributed) integration/interlinking from heterogeneous data sources".
+<http://kgb.rml.io/resources/Topic/methods-and-techniques-for-knowledge-graph-generation> <http://schema.org/keyword> "Dynamic discovery and retrieval of data for KG generation".
+<http://kgb.rml.io/resources/Topic/methods-and-techniques-for-knowledge-graph-generation> <http://schema.org/keyword> "Quality, Provenance, privacy and trustworthiness of Linked Data generation".
+<http://kgb.rml.io/resources/Topic/methods-and-techniques-for-knowledge-graph-generation> <http://schema.org/keyword> "Knowledge Graph generation and publishing of streaming data at run-time".
+<http://kgb.rml.io/resources/Topic/methods-and-techniques-for-knowledge-graph-generation> <http://schema.org/keyword> "Benchmarks for Knowledge Graphs generation and publishing".
+<http://kgb.rml.io/resources/Topic/lessons-learnt-in-use-and-experience> <http://schema.org/keyword> "Experience, lessons learnt and best practices for generating and publishing".
+<http://kgb.rml.io/resources/Topic/lessons-learnt-in-use-and-experience> <http://schema.org/keyword> "Negative results and in-use/applied descriptions".
+<http//kgb.rml.io/resources/ProgramChair/soren-auer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<http//kgb.rml.io/resources/ProgramChair/soren-auer> <http://schema.org/name> "Soren Auer".
+<http//kgb.rml.io/resources/ProgramChair/soren-auer> <http://schema.org/memberOf> "Technische Informationsbibliothek".
+<http//kgb.rml.io/resources/ProgramChair/oscar-corcho> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<http//kgb.rml.io/resources/ProgramChair/oscar-corcho> <http://schema.org/name> "Oscar Corcho".
+<http//kgb.rml.io/resources/ProgramChair/oscar-corcho> <http://schema.org/memberOf> "Universidad Politécnica de Madrid".
+<http//kgb.rml.io/resources/ProgramChair/emanuele-della-valle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<http//kgb.rml.io/resources/ProgramChair/emanuele-della-valle> <http://schema.org/name> "Emanuele Della Valle".
+<http//kgb.rml.io/resources/ProgramChair/emanuele-della-valle> <http://schema.org/memberOf> "Politecnico di Milano".
+<http//kgb.rml.io/resources/ProgramChair/aidan-hogan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<http//kgb.rml.io/resources/ProgramChair/aidan-hogan> <http://schema.org/name> "Aidan Hogan".
+<http//kgb.rml.io/resources/ProgramChair/aidan-hogan> <http://schema.org/memberOf> "Universidad de Chile".
+<http//kgb.rml.io/resources/ProgramChair/craig-knoblock> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<http//kgb.rml.io/resources/ProgramChair/craig-knoblock> <http://schema.org/name> "Craig Knoblock".
+<http//kgb.rml.io/resources/ProgramChair/craig-knoblock> <http://schema.org/memberOf> "University of Southern California".
+<http//kgb.rml.io/resources/ProgramChair/manolis-koubarakis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<http//kgb.rml.io/resources/ProgramChair/manolis-koubarakis> <http://schema.org/name> "Manolis Koubarakis".
+<http//kgb.rml.io/resources/ProgramChair/manolis-koubarakis> <http://schema.org/memberOf> "National & Kapodistrian University of Athens".
+<http//kgb.rml.io/resources/ProgramChair/frank-michael> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<http//kgb.rml.io/resources/ProgramChair/frank-michael> <http://schema.org/name> "Frank Michael".
+<http//kgb.rml.io/resources/ProgramChair/frank-michael> <http://schema.org/memberOf> "Université Côte d'Azur, CNRS, Inria, I3S ".
+<http//kgb.rml.io/resources/ProgramChair/claus-stadler> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<http//kgb.rml.io/resources/ProgramChair/claus-stadler> <http://schema.org/name> "Claus Stadler".
+<http//kgb.rml.io/resources/ProgramChair/claus-stadler> <http://schema.org/memberOf> "Leipzig University".
+<http//kgb.rml.io/resources/ProgramChair/ruben-verborgh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<http//kgb.rml.io/resources/ProgramChair/ruben-verborgh> <http://schema.org/name> "Ruben Verborgh".
+<http//kgb.rml.io/resources/ProgramChair/ruben-verborgh> <http://schema.org/memberOf> "IDLab, Ghent University – imec".
+<http//kgb.rml.io/resources/ProgramChair/boris-villaz%C3%B3n-terrazas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<http//kgb.rml.io/resources/ProgramChair/boris-villaz%C3%B3n-terrazas> <http://schema.org/name> "Boris Villazón-Terrazas".
+<http//kgb.rml.io/resources/ProgramChair/boris-villaz%C3%B3n-terrazas> <http://schema.org/memberOf> "Arvato".
+<http//kgb.rml.io/resources/ProgramChair/amrapali-zaveri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<http//kgb.rml.io/resources/ProgramChair/amrapali-zaveri> <http://schema.org/name> "Amrapali Zaveri".
+<http//kgb.rml.io/resources/ProgramChair/amrapali-zaveri> <http://schema.org/memberOf> "Maastricht University".
+<http//kgb.rml.io/resources/ProgramChair/antoine-zimmermann> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<http//kgb.rml.io/resources/ProgramChair/antoine-zimmermann> <http://schema.org/name> "Antoine Zimmermann".
+<http//kgb.rml.io/resources/ProgramChair/antoine-zimmermann> <http://schema.org/memberOf> "École des Mines de Saint-Étienne".
+<http//kgb.rml.io/resources/ImportantDates/2019-03-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
+<http//kgb.rml.io/resources/ImportantDates/2019-03-01> <http://schema.org/about> "Submission Deadline".
+<http//kgb.rml.io/resources/ImportantDates/2019-03-01> <http://schema.org/startDate> "2019-03-01".
+<http//kgb.rml.io/resources/ImportantDates/2019-03-29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
+<http//kgb.rml.io/resources/ImportantDates/2019-03-29> <http://schema.org/about> "Notifications".
+<http//kgb.rml.io/resources/ImportantDates/2019-03-29> <http://schema.org/startDate> "2019-03-29".
+<http//kgb.rml.io/resources/ImportantDates/2019-04-12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
+<http//kgb.rml.io/resources/ImportantDates/2019-04-12> <http://schema.org/about> "Camera-ready".
+<http//kgb.rml.io/resources/ImportantDates/2019-04-12> <http://schema.org/startDate> "2019-04-12".
+<http//kgb.rml.io/resources/ImportantDates/2019-06-03> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
+<http//kgb.rml.io/resources/ImportantDates/2019-06-03> <http://schema.org/about> "Workshop".
+<http//kgb.rml.io/resources/ImportantDates/2019-06-03> <http://schema.org/startDate> "2019-06-03".
+<http//kgb.rml.io/resources/Organizer/david-chaves-fraga> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<http//kgb.rml.io/resources/Organizer/david-chaves-fraga> <http://schema.org/name> "David Chaves Fraga".
+<http//kgb.rml.io/resources/Organizer/david-chaves-fraga> <http://schema.org/url> "http://dchaves.oeg-upm.net".
+<http//kgb.rml.io/resources/Organizer/david-chaves-fraga> <http://schema.org/sameAs> "https://twitter.com/dchavesf".
+<http//kgb.rml.io/resources/Organizer/david-chaves-fraga> <http://schema.org/memberOf> "Ontology Engineering Group - Universidad Politécnica de Madrid".
+<http//kgb.rml.io/resources/Organizer/david-chaves-fraga> <http://schema.org/image> "https://pbs.twimg.com/profile_images/831426754539614208/4tG25G_o_400x400.jpg".
+<http//kgb.rml.io/resources/Organizer/david-chaves-fraga> <http://schema.org/description> "PhD student at Ontology Engineering Group, Universidad Politécnica de Madrid. His research is focused on virtual Knowledge Graphs generation from heterogeneous data sources exposed on the Web using mapping languages. ".
+<http//kgb.rml.io/resources/Organizer/david-chaves-fraga> <http://schema.org/email> "dchaves@fi.upm.es".
+<http//kgb.rml.io/resources/Organizer/anastasia-dimou> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<http//kgb.rml.io/resources/Organizer/anastasia-dimou> <http://schema.org/name> "Anastasia Dimou".
+<http//kgb.rml.io/resources/Organizer/anastasia-dimou> <http://schema.org/url> "http://rml.io/".
+<http//kgb.rml.io/resources/Organizer/anastasia-dimou> <http://schema.org/sameAs> "https://twitter.com/natadimou".
+<http//kgb.rml.io/resources/Organizer/anastasia-dimou> <http://schema.org/memberOf> "imec and IDLab, Ghent University".
+<http//kgb.rml.io/resources/Organizer/anastasia-dimou> <http://schema.org/image> "https://pbs.twimg.com/profile_images/440561468245700608/h7pcUbPU_400x400.jpeg".
+<http//kgb.rml.io/resources/Organizer/anastasia-dimou> <http://schema.org/description> "Senior/post-doctoral researcher at imec and IDLab, Ghent University. Her research interests include Linked Data Generation and Publication, Data Quality and Integration, Knowledge Representation and Management.".
+<http//kgb.rml.io/resources/Organizer/anastasia-dimou> <http://schema.org/email> "anastasia.dimou@ugent.be ".
+<http//kgb.rml.io/resources/Organizer/pieter-heyvaert> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<http//kgb.rml.io/resources/Organizer/pieter-heyvaert> <http://schema.org/name> "Pieter Heyvaert".
+<http//kgb.rml.io/resources/Organizer/pieter-heyvaert> <http://schema.org/url> "https://pieterheyvaert.com/research/".
+<http//kgb.rml.io/resources/Organizer/pieter-heyvaert> <http://schema.org/sameAs> "https://twitter.com/PHaDventure".
+<http//kgb.rml.io/resources/Organizer/pieter-heyvaert> <http://schema.org/memberOf> "imec and IDLab, Ghent University".
+<http//kgb.rml.io/resources/Organizer/pieter-heyvaert> <http://schema.org/image> "https://pbs.twimg.com/profile_images/604314730098860032/VIAIK1sR_400x400.jpg".
+<http//kgb.rml.io/resources/Organizer/pieter-heyvaert> <http://schema.org/description> "PhD student at imec and IDLab, Ghent University. His research interests include Knowledge Graph and Linked Data Generation, and interaction between users and mapping languages.".
+<http//kgb.rml.io/resources/Organizer/pieter-heyvaert> <http://schema.org/email> "pheyvaer.heyvaert@ugent.be ".
+<http//kgb.rml.io/resources/Organizer/freddy-priyatna> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<http//kgb.rml.io/resources/Organizer/freddy-priyatna> <http://schema.org/name> "Freddy Priyatna".
+<http//kgb.rml.io/resources/Organizer/freddy-priyatna> <http://schema.org/url> "https://es.linkedin.com/in/freddy-priyatna-0195781".
+<http//kgb.rml.io/resources/Organizer/freddy-priyatna> <http://schema.org/sameAs> "https://twitter.com/freddy_priyatna".
+<http//kgb.rml.io/resources/Organizer/freddy-priyatna> <http://schema.org/memberOf> "Ontology Engineering Group - Universidad Politécnica de Madrid".
+<http//kgb.rml.io/resources/Organizer/freddy-priyatna> <http://schema.org/image> "https://pbs.twimg.com/profile_images/811555732046942208/OZ-rEChI_400x400.jpg".
+<http//kgb.rml.io/resources/Organizer/freddy-priyatna> <http://schema.org/description> "Senior/post-doctoral researcher at Ontology Engineering Group, Universidad Politécnica de Madrid. His main research interest is on the generation of Knowledge Graph from legacy datasets.".
+<http//kgb.rml.io/resources/Organizer/freddy-priyatna> <http://schema.org/email> "fpriyatna@fi.upm.es ".
+<http//kgb.rml.io/resources/Organizer/juan-sequeda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<http//kgb.rml.io/resources/Organizer/juan-sequeda> <http://schema.org/name> "Juan Sequeda".
+<http//kgb.rml.io/resources/Organizer/juan-sequeda> <http://schema.org/url> "http://www.juansequeda.com/".
+<http//kgb.rml.io/resources/Organizer/juan-sequeda> <http://schema.org/sameAs> "https://twitter.com/juansequeda".
+<http//kgb.rml.io/resources/Organizer/juan-sequeda> <http://schema.org/memberOf> "Capsenta".
+<http//kgb.rml.io/resources/Organizer/juan-sequeda> <http://schema.org/image> "https://pbs.twimg.com/profile_images/791595961147535360/RpPYFS-u_400x400.jpg".
+<http//kgb.rml.io/resources/Organizer/juan-sequeda> <http://schema.org/description> "Juan F. Sequeda is co-founder of Capsenta, a spin-off from his research, and Senior Director of Capsenta Labs. His research interests are on the intersection of Logic and Data for (ontology-based) data integration and semantic/graph data management.".
+<http//kgb.rml.io/resources/Organizer/juan-sequeda> <http://schema.org/email> "juan@capsenta.com ".
