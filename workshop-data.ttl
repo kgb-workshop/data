@@ -1,10 +1,10 @@
-<http://kbg.rml.io/resources/Event/kgb2019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
-<http://kbg.rml.io/resources/Event/kgb2019> <http://schema.org/about> "Workshop on Knowledge Graph Building".
-<http://kbg.rml.io/resources/Event/kgb2019> <http://schema.org/duration> "P0T8H".
-<http://kbg.rml.io/resources/Event/kgb2019> <http://schema.org/startDate> "2019-06-03".
-<http://kbg.rml.io/resources/Event/kgb2019> <http://schema.org/endDate> "2019-06-03".
-<http://kbg.rml.io/resources/Event/kgb2019> <http://schema.org/location> "Portorož, Slovenia".
-<http://kbg.rml.io/resources/Event/kgb2019> <http://schema.org/superEvent> "Extended Semantic Web Conference 2019".
+<http://kgb.rml.io/resources/Event/kgb2019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
+<http://kgb.rml.io/resources/Event/kgb2019> <http://schema.org/about> "Workshop on Knowledge Graph Building".
+<http://kgb.rml.io/resources/Event/kgb2019> <http://schema.org/duration> "P0T8H".
+<http://kgb.rml.io/resources/Event/kgb2019> <http://schema.org/startDate> "2019-06-03".
+<http://kgb.rml.io/resources/Event/kgb2019> <http://schema.org/endDate> "2019-06-03".
+<http://kgb.rml.io/resources/Event/kgb2019> <http://schema.org/location> "Portorož, Slovenia".
+<http://kgb.rml.io/resources/Event/kgb2019> <http://schema.org/superEvent> "Extended Semantic Web Conference 2019".
 <http://kgb.rml.io/resources/Topic/mapping-based-knowledge-graph-generation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork>.
 <http://kgb.rml.io/resources/Topic/mapping-based-knowledge-graph-generation> <http://schema.org/mainEntity> "Mapping based Knowledge Graph Generation".
 <http://kgb.rml.io/resources/Topic/tools-for-knowledge-graph-generation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork>.

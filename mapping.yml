@@ -2,7 +2,7 @@ mappings:
   workshops:
     sources:
       - ['csv/general-info.csv~csv']
-    s: http://kbg.rml.io/resources/Event/$(id)
+    s: http://kgb.rml.io/resources/Event/$(id)
     po:
       - [a, schema:Event]
       - [schema:about, $(title)]

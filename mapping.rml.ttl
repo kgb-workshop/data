@@ -15,7 +15,7 @@
     rdfs:label "workshops".
 :s_0 a rr:SubjectMap.
 :map_workshops_0 rr:subjectMap :s_0.
-:s_0 rr:template "http://kbg.rml.io/resources/Event/{id}".
+:s_0 rr:template "http://kgb.rml.io/resources/Event/{id}".
 :pom_0 a rr:PredicateObjectMap.
 :map_workshops_0 rr:predicateObjectMap :pom_0.
 :pm_0 a rr:PredicateMap.
