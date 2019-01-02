@@ -1,35 +1,44 @@
+prefixes:
+  ov: http://open.vocab.org/terms/
+
 mappings:
   workshops:
     sources:
       - ['csv/general-info.csv~csv']
-    s: http://kgb.rml.io/resources/Event/$(id)
+    s: https://kgb-workshop.org/resources/Event/$(id)
     po:
       - [a, schema:Event]
-      - [schema:about, $(title)]
+      - [schema:name, $(title)]
       - [schema:duration, $(duration)]
       - [schema:startDate, $(startDate)]
       - [schema:endDate, $(endDate)]
       - [schema:location, $(location)]
       - [schema:superEvent, $(superEvent)]
+      - p: schema:subEvent
+        o:
+          mapping: dates
+      - p: schema:organizer
+        o:
+          mapping: organizers
 
   topics:
     sources:
       - ['csv/topics.csv~csv']
-    s: http://kgb.rml.io/resources/Topic/$(id)
+    s: https://kgb-workshop.org/resources/Topic/$(id)
     po: 
       - [a, schema:CreativeWork]
-      - [schema:mainEntity, $(name)]
+      - [schema:name, $(name)]
      
   subtopics:
     sources:
       - ['csv/subtopics.csv~csv']
-    s: http://kgb.rml.io/resources/Topic/$(id)
+    s: https://kgb-workshop.org/resources/Topic/$(id)
     po: 
        - [schema:keyword, $(subtopic)]
   pc:
     sources:
       - ['csv/pc.csv~csv']
-    s: http//kgb.rml.io/resources/ProgramChair/$(id)
+    s: https://kgb-workshop.org/resources/ProgramCommittee/$(id)
     po:
       - [a, schema:Person]
       - [schema:name, $(name)]
@@ -37,21 +46,25 @@ mappings:
   dates:
     sources:
       - ['csv/important-dates.csv~csv']
-    s: http//kgb.rml.io/resources/ImportantDates/$(date)
+    s: https://kgb-workshop.org/resources/ImportantDates/$(date)
     po:
       - [a, schema:Event]
-      - [schema:about, $(event)]
+      - [schema:name, $(event)]
       - [schema:startDate, $(date)]
+      - [schema:description, $(description)]
+
   organizers:
     sources:
       - ['csv/organizers.csv~csv']
-    s: http//kgb.rml.io/resources/Organizer/$(id)
+    s: https://kgb-workshop.org/resources/Organizer/$(id)
     po:
       - [a, schema:Person]
       - [schema:name, $(name)]
-      - [schema:url, $(webpage)]
-      - [schema:sameAs, $(twitter)]
+      - [schema:sameAs, $(webpage)]
+      - [ov:twitter-id, $(twitter)]
       - [schema:memberOf, $(organization)]
-      - [schema:image, $(photo)]
+      - [schema:image, http://kgb-workshop.org/img/$(photo)]
       - [schema:description, $(biography)]
       - [schema:email, $(email)]
+      - [schema:jobTitle, $(role)]
+      - [http://example.org/linkedin, $(linkedin)]
