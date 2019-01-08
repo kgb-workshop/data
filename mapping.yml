@@ -41,6 +41,7 @@ mappings:
     s: https://kgb-workshop.org/resources/ProgramCommittee/$(id)
     po:
       - [a, schema:Person]
+      - [schema:performerIn, http://kgb.rml.io/resources/Event/kgb2019~iri]
       - [schema:name, $(name)]
       - [schema:memberOf, $(organization)]
   dates:
