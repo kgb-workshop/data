@@ -114,7 +114,7 @@
 <https://kgb-workshop.org/resources/Organizer/anastasia-dimou> <http://schema.org/name> "Anastasia Dimou".
 <https://kgb-workshop.org/resources/Organizer/anastasia-dimou> <http://schema.org/sameAs> "http://rml.io/".
 <https://kgb-workshop.org/resources/Organizer/anastasia-dimou> <http://open.vocab.org/terms/twitter-id> "natadimou".
-<https://kgb-workshop.org/resources/Organizer/anastasia-dimou> <http://schema.org/memberOf> "imec - IDLab (Ghent U.)".
+<https://kgb-workshop.org/resources/Organizer/anastasia-dimou> <http://schema.org/memberOf> "imec - IDLab (UGent)".
 <https://kgb-workshop.org/resources/Organizer/anastasia-dimou> <http://schema.org/image> "http://kgb-workshop.org/img/anastasia.jpg".
 <https://kgb-workshop.org/resources/Organizer/anastasia-dimou> <http://schema.org/description> "Senior/post-doctoral researcher at imec and IDLab, Ghent University. Her research interests include Linked Data Generation and Publication, Data Quality and Integration, Knowledge Representation and Management.".
 <https://kgb-workshop.org/resources/Organizer/anastasia-dimou> <http://schema.org/email> "anastasia.dimou@ugent.be".
@@ -124,7 +124,7 @@
 <https://kgb-workshop.org/resources/Organizer/pieter-heyvaert> <http://schema.org/name> "Pieter Heyvaert".
 <https://kgb-workshop.org/resources/Organizer/pieter-heyvaert> <http://schema.org/sameAs> "https://pieterheyvaert.com/research/".
 <https://kgb-workshop.org/resources/Organizer/pieter-heyvaert> <http://open.vocab.org/terms/twitter-id> "PHaDventure".
-<https://kgb-workshop.org/resources/Organizer/pieter-heyvaert> <http://schema.org/memberOf> "imec - IDLab (Ghent U.)".
+<https://kgb-workshop.org/resources/Organizer/pieter-heyvaert> <http://schema.org/memberOf> "imec - IDLab (UGent)".
 <https://kgb-workshop.org/resources/Organizer/pieter-heyvaert> <http://schema.org/image> "http://kgb-workshop.org/img/pieter.jpg".
 <https://kgb-workshop.org/resources/Organizer/pieter-heyvaert> <http://schema.org/description> "PhD student at imec and IDLab, Ghent University. His research interests include Knowledge Graph and Linked Data Generation, and interaction between users and mapping languages.".
 <https://kgb-workshop.org/resources/Organizer/pieter-heyvaert> <http://schema.org/email> "pheyvaer.heyvaert@ugent.be".
