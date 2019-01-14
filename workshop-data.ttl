@@ -84,6 +84,10 @@
 <https://kgb-workshop.org/resources/ProgramCommittee/antoine-zimmermann> <http://schema.org/performerIn> <http://kgb.rml.io/resources/Event/kgb2019>.
 <https://kgb-workshop.org/resources/ProgramCommittee/antoine-zimmermann> <http://schema.org/name> "Antoine Zimmermann".
 <https://kgb-workshop.org/resources/ProgramCommittee/antoine-zimmermann> <http://schema.org/memberOf> "École des Mines de Saint-Étienne".
+<https://kgb-workshop.org/resources/ProgramCommittee/ben-de-meester> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://kgb-workshop.org/resources/ProgramCommittee/ben-de-meester> <http://schema.org/performerIn> <http://kgb.rml.io/resources/Event/kgb2019>.
+<https://kgb-workshop.org/resources/ProgramCommittee/ben-de-meester> <http://schema.org/name> "Ben De Meester".
+<https://kgb-workshop.org/resources/ProgramCommittee/ben-de-meester> <http://schema.org/memberOf> "IDLab, Ghent University – imec".
 <https://kgb-workshop.org/resources/ImportantDates/2019-03-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
 <https://kgb-workshop.org/resources/ImportantDates/2019-03-01> <http://schema.org/name> "Submission papers".
 <https://kgb-workshop.org/resources/ImportantDates/2019-03-01> <http://schema.org/startDate> "2019-03-01".
