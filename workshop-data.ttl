@@ -95,7 +95,7 @@
 <https://kgb-workshop.org/resources/ProgramCommittee/ahmet-soylu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
 <https://kgb-workshop.org/resources/ProgramCommittee/ahmet-soylu> <http://schema.org/performerIn> <http://kgb.rml.io/resources/Event/kgb2019>.
 <https://kgb-workshop.org/resources/ProgramCommittee/ahmet-soylu> <http://schema.org/name> "Ahmet Soylu".
-<https://kgb-workshop.org/resources/ProgramCommittee/ahmet-soylu> <http://schema.org/memberOf> "SINTEF/University of Oslo".
+<https://kgb-workshop.org/resources/ProgramCommittee/ahmet-soylu> <http://schema.org/memberOf> "SINTEF/UNTNU".
 <https://kgb-workshop.org/resources/ImportantDates/2019-03-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
 <https://kgb-workshop.org/resources/ImportantDates/2019-03-01> <http://schema.org/name> "Submission papers".
 <https://kgb-workshop.org/resources/ImportantDates/2019-03-01> <http://schema.org/startDate> "2019-03-01".
