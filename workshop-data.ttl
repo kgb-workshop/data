@@ -99,7 +99,7 @@
 <https://kgb-workshop.org/resources/ImportantDates/2019-03-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
 <https://kgb-workshop.org/resources/ImportantDates/2019-03-01> <http://schema.org/name> "Submission papers".
 <https://kgb-workshop.org/resources/ImportantDates/2019-03-01> <http://schema.org/startDate> "2019-03-01".
-<https://kgb-workshop.org/resources/ImportantDates/2019-03-01> <http://schema.org/description> "Submit your paper to KGB workshop using the OpenReview platform. You can see the main topics of the Workshop in the Call for Papers.".
+<https://kgb-workshop.org/resources/ImportantDates/2019-03-01> <http://schema.org/description> "Submit your paper to KGB workshop using the <a href=\"https://openreview.net/group?id=eswc-conferences.org/ESWC/2019/Workshop/KGB\">OpenReview</a> platform. You can see the main topics of the Workshop in the <a href=\"#call\">Call for Papers</a>.".
 <https://kgb-workshop.org/resources/ImportantDates/2019-03-29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
 <https://kgb-workshop.org/resources/ImportantDates/2019-03-29> <http://schema.org/name> "Notifications".
 <https://kgb-workshop.org/resources/ImportantDates/2019-03-29> <http://schema.org/startDate> "2019-03-29".
@@ -107,7 +107,7 @@
 <https://kgb-workshop.org/resources/ImportantDates/2019-04-12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
 <https://kgb-workshop.org/resources/ImportantDates/2019-04-12> <http://schema.org/name> "Submission camera ready".
 <https://kgb-workshop.org/resources/ImportantDates/2019-04-12> <http://schema.org/startDate> "2019-04-12".
-<https://kgb-workshop.org/resources/ImportantDates/2019-04-12> <http://schema.org/description> "Time to have your paper ready for being published. All the accepted paper will be published in the KGB proceedings using CEUR-WS.".
+<https://kgb-workshop.org/resources/ImportantDates/2019-04-12> <http://schema.org/description> "Time to have your paper ready for being published. All the accepted paper will be published in the KGB proceedings.".
 <https://kgb-workshop.org/resources/ImportantDates/2019-06-03> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
 <https://kgb-workshop.org/resources/ImportantDates/2019-06-03> <http://schema.org/name> "Workshop".
 <https://kgb-workshop.org/resources/ImportantDates/2019-06-03> <http://schema.org/startDate> "2019-06-03".
