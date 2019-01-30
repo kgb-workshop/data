@@ -37,51 +37,51 @@
 <https://kgb-workshop.org/resources/Topic/lessons-learnt-in-use-and-experience> <http://schema.org/keyword> "Experience, lessons learnt and best practices for generating and publishing".
 <https://kgb-workshop.org/resources/Topic/lessons-learnt-in-use-and-experience> <http://schema.org/keyword> "Negative results and in-use/applied descriptions".
 <https://kgb-workshop.org/resources/ProgramCommittee/soren-auer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
-<https://kgb-workshop.org/resources/ProgramCommittee/soren-auer> <http://schema.org/performerIn> <http://kgb.rml.io/resources/Event/kgb2019>.
+<https://kgb-workshop.org/resources/ProgramCommittee/soren-auer> <http://schema.org/performerIn> <https://kgb-workshop.org/resources/Event/kgb2019>.
 <https://kgb-workshop.org/resources/ProgramCommittee/soren-auer> <http://schema.org/name> "Soren Auer".
 <https://kgb-workshop.org/resources/ProgramCommittee/soren-auer> <http://schema.org/memberOf> "Technische Informationsbibliothek".
 <https://kgb-workshop.org/resources/ProgramCommittee/oscar-corcho> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
-<https://kgb-workshop.org/resources/ProgramCommittee/oscar-corcho> <http://schema.org/performerIn> <http://kgb.rml.io/resources/Event/kgb2019>.
+<https://kgb-workshop.org/resources/ProgramCommittee/oscar-corcho> <http://schema.org/performerIn> <https://kgb-workshop.org/resources/Event/kgb2019>.
 <https://kgb-workshop.org/resources/ProgramCommittee/oscar-corcho> <http://schema.org/name> "Oscar Corcho".
 <https://kgb-workshop.org/resources/ProgramCommittee/oscar-corcho> <http://schema.org/memberOf> "Universidad Politécnica de Madrid".
 <https://kgb-workshop.org/resources/ProgramCommittee/emanuele-della-valle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
-<https://kgb-workshop.org/resources/ProgramCommittee/emanuele-della-valle> <http://schema.org/performerIn> <http://kgb.rml.io/resources/Event/kgb2019>.
+<https://kgb-workshop.org/resources/ProgramCommittee/emanuele-della-valle> <http://schema.org/performerIn> <https://kgb-workshop.org/resources/Event/kgb2019>.
 <https://kgb-workshop.org/resources/ProgramCommittee/emanuele-della-valle> <http://schema.org/name> "Emanuele Della Valle".
 <https://kgb-workshop.org/resources/ProgramCommittee/emanuele-della-valle> <http://schema.org/memberOf> "Politecnico di Milano".
 <https://kgb-workshop.org/resources/ProgramCommittee/aidan-hogan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
-<https://kgb-workshop.org/resources/ProgramCommittee/aidan-hogan> <http://schema.org/performerIn> <http://kgb.rml.io/resources/Event/kgb2019>.
+<https://kgb-workshop.org/resources/ProgramCommittee/aidan-hogan> <http://schema.org/performerIn> <https://kgb-workshop.org/resources/Event/kgb2019>.
 <https://kgb-workshop.org/resources/ProgramCommittee/aidan-hogan> <http://schema.org/name> "Aidan Hogan".
 <https://kgb-workshop.org/resources/ProgramCommittee/aidan-hogan> <http://schema.org/memberOf> "Universidad de Chile".
 <https://kgb-workshop.org/resources/ProgramCommittee/craig-knoblock> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
-<https://kgb-workshop.org/resources/ProgramCommittee/craig-knoblock> <http://schema.org/performerIn> <http://kgb.rml.io/resources/Event/kgb2019>.
+<https://kgb-workshop.org/resources/ProgramCommittee/craig-knoblock> <http://schema.org/performerIn> <https://kgb-workshop.org/resources/Event/kgb2019>.
 <https://kgb-workshop.org/resources/ProgramCommittee/craig-knoblock> <http://schema.org/name> "Craig Knoblock".
 <https://kgb-workshop.org/resources/ProgramCommittee/craig-knoblock> <http://schema.org/memberOf> "University of Southern California".
 <https://kgb-workshop.org/resources/ProgramCommittee/manolis-koubarakis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
-<https://kgb-workshop.org/resources/ProgramCommittee/manolis-koubarakis> <http://schema.org/performerIn> <http://kgb.rml.io/resources/Event/kgb2019>.
+<https://kgb-workshop.org/resources/ProgramCommittee/manolis-koubarakis> <http://schema.org/performerIn> <https://kgb-workshop.org/resources/Event/kgb2019>.
 <https://kgb-workshop.org/resources/ProgramCommittee/manolis-koubarakis> <http://schema.org/name> "Manolis Koubarakis".
 <https://kgb-workshop.org/resources/ProgramCommittee/manolis-koubarakis> <http://schema.org/memberOf> "National & Kapodistrian University of Athens".
 <https://kgb-workshop.org/resources/ProgramCommittee/frank-michael> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
-<https://kgb-workshop.org/resources/ProgramCommittee/frank-michael> <http://schema.org/performerIn> <http://kgb.rml.io/resources/Event/kgb2019>.
+<https://kgb-workshop.org/resources/ProgramCommittee/frank-michael> <http://schema.org/performerIn> <https://kgb-workshop.org/resources/Event/kgb2019>.
 <https://kgb-workshop.org/resources/ProgramCommittee/frank-michael> <http://schema.org/name> "Frank Michael".
 <https://kgb-workshop.org/resources/ProgramCommittee/frank-michael> <http://schema.org/memberOf> "Université Côte d'Azur, CNRS, Inria, I3S ".
 <https://kgb-workshop.org/resources/ProgramCommittee/claus-stadler> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
-<https://kgb-workshop.org/resources/ProgramCommittee/claus-stadler> <http://schema.org/performerIn> <http://kgb.rml.io/resources/Event/kgb2019>.
+<https://kgb-workshop.org/resources/ProgramCommittee/claus-stadler> <http://schema.org/performerIn> <https://kgb-workshop.org/resources/Event/kgb2019>.
 <https://kgb-workshop.org/resources/ProgramCommittee/claus-stadler> <http://schema.org/name> "Claus Stadler".
 <https://kgb-workshop.org/resources/ProgramCommittee/claus-stadler> <http://schema.org/memberOf> "Leipzig University".
 <https://kgb-workshop.org/resources/ProgramCommittee/ruben-verborgh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
-<https://kgb-workshop.org/resources/ProgramCommittee/ruben-verborgh> <http://schema.org/performerIn> <http://kgb.rml.io/resources/Event/kgb2019>.
+<https://kgb-workshop.org/resources/ProgramCommittee/ruben-verborgh> <http://schema.org/performerIn> <https://kgb-workshop.org/resources/Event/kgb2019>.
 <https://kgb-workshop.org/resources/ProgramCommittee/ruben-verborgh> <http://schema.org/name> "Ruben Verborgh".
 <https://kgb-workshop.org/resources/ProgramCommittee/ruben-verborgh> <http://schema.org/memberOf> "IDLab, Ghent University – imec".
 <https://kgb-workshop.org/resources/ProgramCommittee/boris-villaz%C3%B3n-terrazas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
-<https://kgb-workshop.org/resources/ProgramCommittee/boris-villaz%C3%B3n-terrazas> <http://schema.org/performerIn> <http://kgb.rml.io/resources/Event/kgb2019>.
+<https://kgb-workshop.org/resources/ProgramCommittee/boris-villaz%C3%B3n-terrazas> <http://schema.org/performerIn> <https://kgb-workshop.org/resources/Event/kgb2019>.
 <https://kgb-workshop.org/resources/ProgramCommittee/boris-villaz%C3%B3n-terrazas> <http://schema.org/name> "Boris Villazón-Terrazas".
 <https://kgb-workshop.org/resources/ProgramCommittee/boris-villaz%C3%B3n-terrazas> <http://schema.org/memberOf> "Arvato".
 <https://kgb-workshop.org/resources/ProgramCommittee/amrapali-zaveri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
-<https://kgb-workshop.org/resources/ProgramCommittee/amrapali-zaveri> <http://schema.org/performerIn> <http://kgb.rml.io/resources/Event/kgb2019>.
+<https://kgb-workshop.org/resources/ProgramCommittee/amrapali-zaveri> <http://schema.org/performerIn> <https://kgb-workshop.org/resources/Event/kgb2019>.
 <https://kgb-workshop.org/resources/ProgramCommittee/amrapali-zaveri> <http://schema.org/name> "Amrapali Zaveri".
 <https://kgb-workshop.org/resources/ProgramCommittee/amrapali-zaveri> <http://schema.org/memberOf> "Maastricht University".
 <https://kgb-workshop.org/resources/ProgramCommittee/antoine-zimmermann> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
-<https://kgb-workshop.org/resources/ProgramCommittee/antoine-zimmermann> <http://schema.org/performerIn> <http://kgb.rml.io/resources/Event/kgb2019>.
+<https://kgb-workshop.org/resources/ProgramCommittee/antoine-zimmermann> <http://schema.org/performerIn> <https://kgb-workshop.org/resources/Event/kgb2019>.
 <https://kgb-workshop.org/resources/ProgramCommittee/antoine-zimmermann> <http://schema.org/name> "Antoine Zimmermann".
 <https://kgb-workshop.org/resources/ProgramCommittee/antoine-zimmermann> <http://schema.org/memberOf> "École des Mines de Saint-Étienne".
 <https://kgb-workshop.org/resources/ImportantDates/2019-03-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.

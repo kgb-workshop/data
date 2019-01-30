@@ -162,7 +162,7 @@
 :pm_13 rr:constant <http://schema.org/performerIn>.
 :pom_13 rr:objectMap :om_13.
 :om_13 a rr:ObjectMap;
-    rr:constant "http://kgb.rml.io/resources/Event/kgb2019";
+    rr:constant "https://kgb-workshop.org/resources/Event/kgb2019";
     rr:termType rr:IRI.
 :pom_14 a rr:PredicateObjectMap.
 :map_pc_0 rr:predicateObjectMap :pom_14.
