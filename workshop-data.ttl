@@ -5,7 +5,7 @@
 <https://kgb-workshop.org/resources/Event/kgb2019> <http://schema.org/endDate> "2019-06-03".
 <https://kgb-workshop.org/resources/Event/kgb2019> <http://schema.org/location> "Portorož, Slovenia".
 <https://kgb-workshop.org/resources/Event/kgb2019> <http://schema.org/superEvent> "Extended Semantic Web Conference 2019".
-<https://kgb-workshop.org/resources/Event/kgb2019> <http://schema.org/subEvent> <https://kgb-workshop.org/resources/ImportantDates/2019-03-01>.
+<https://kgb-workshop.org/resources/Event/kgb2019> <http://schema.org/subEvent> <https://kgb-workshop.org/resources/ImportantDates/2019-03-11>.
 <https://kgb-workshop.org/resources/Event/kgb2019> <http://schema.org/subEvent> <https://kgb-workshop.org/resources/ImportantDates/2019-03-29>.
 <https://kgb-workshop.org/resources/Event/kgb2019> <http://schema.org/subEvent> <https://kgb-workshop.org/resources/ImportantDates/2019-04-12>.
 <https://kgb-workshop.org/resources/Event/kgb2019> <http://schema.org/subEvent> <https://kgb-workshop.org/resources/ImportantDates/2019-06-03>.
@@ -96,10 +96,10 @@
 <https://kgb-workshop.org/resources/ProgramCommittee/ahmet-soylu> <http://schema.org/performerIn> <https://kgb-workshop.org/resources/Event/kgb2019>.
 <https://kgb-workshop.org/resources/ProgramCommittee/ahmet-soylu> <http://schema.org/name> "Ahmet Soylu".
 <https://kgb-workshop.org/resources/ProgramCommittee/ahmet-soylu> <http://schema.org/memberOf> "SINTEF/NTNU".
-<https://kgb-workshop.org/resources/ImportantDates/2019-03-01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
-<https://kgb-workshop.org/resources/ImportantDates/2019-03-01> <http://schema.org/name> "Submission papers".
-<https://kgb-workshop.org/resources/ImportantDates/2019-03-01> <http://schema.org/startDate> "2019-03-01".
-<https://kgb-workshop.org/resources/ImportantDates/2019-03-01> <http://schema.org/description> "Submit your paper to KGB workshop using the <a href=\"https://openreview.net/group?id=eswc-conferences.org/ESWC/2019/Workshop/KGB\">OpenReview</a> platform. You can see the main topics of the Workshop in the <a href=\"#call\">Call for Papers</a>.".
+<https://kgb-workshop.org/resources/ImportantDates/2019-03-11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
+<https://kgb-workshop.org/resources/ImportantDates/2019-03-11> <http://schema.org/name> "Submission papers".
+<https://kgb-workshop.org/resources/ImportantDates/2019-03-11> <http://schema.org/startDate> "2019-03-11".
+<https://kgb-workshop.org/resources/ImportantDates/2019-03-11> <http://schema.org/description> "Submit your paper to KGB workshop using the <a href=\"https://openreview.net/group?id=eswc-conferences.org/ESWC/2019/Workshop/KGB\">OpenReview</a> platform. You can see the main topics of the Workshop in the <a href=\"#call\">Call for Papers</a>.".
 <https://kgb-workshop.org/resources/ImportantDates/2019-03-29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event>.
 <https://kgb-workshop.org/resources/ImportantDates/2019-03-29> <http://schema.org/name> "Notifications".
 <https://kgb-workshop.org/resources/ImportantDates/2019-03-29> <http://schema.org/startDate> "2019-03-29".
