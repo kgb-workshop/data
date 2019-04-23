@@ -162,3 +162,86 @@
 <https://kgb-workshop.org/resources/Organizer/juan-sequeda> <http://schema.org/email> "juan@capsenta.com ".
 <https://kgb-workshop.org/resources/Organizer/juan-sequeda> <http://schema.org/jobTitle> "".
 <https://kgb-workshop.org/resources/Organizer/juan-sequeda> <http://example.org/linkedin> "https://www.linkedin.com/in/juansequeda".
+<https://kgb-workshop.org/resources/Article/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article>.
+<https://kgb-workshop.org/resources/Article/1> <http://schema.org/name> "Building Knowledge Graphs from Survey Data: A Use Case in the Social Sciences".
+<https://kgb-workshop.org/resources/Article/1> <http://schema.org/review> <https://openreview.net/forum?id=S1e9IeRwUE>.
+<https://kgb-workshop.org/resources/Article/1> <https://kgb-workshop.org/paperType> "In-Use Paper".
+<https://kgb-workshop.org/resources/Article/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article>.
+<https://kgb-workshop.org/resources/Article/2> <http://schema.org/name> "Leveraging Ontologies for Knowledge Graph Schemas".
+<https://kgb-workshop.org/resources/Article/2> <http://schema.org/review> <https://openreview.net/forum?id=B1xnsmvaUE>.
+<https://kgb-workshop.org/resources/Article/2> <https://kgb-workshop.org/paperType> "Full Research Paper".
+<https://kgb-workshop.org/resources/Article/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article>.
+<https://kgb-workshop.org/resources/Article/3> <http://schema.org/name> "Building a Knowledge Graph for Products and Solutions in the Automation Industry".
+<https://kgb-workshop.org/resources/Article/3> <http://schema.org/review> <https://openreview.net/forum?id=ByldIMlEDV>.
+<https://kgb-workshop.org/resources/Article/3> <https://kgb-workshop.org/paperType> "In-Use Paper".
+<https://kgb-workshop.org/resources/Article/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article>.
+<https://kgb-workshop.org/resources/Article/4> <http://schema.org/name> "RocketRML - A NodeJS implementation of a use-case specific RML mapper".
+<https://kgb-workshop.org/resources/Article/4> <http://schema.org/review> <https://openreview.net/forum?id=SklznXbEDV>.
+<https://kgb-workshop.org/resources/Article/4> <https://kgb-workshop.org/paperType> "In-Use Paper".
+<https://kgb-workshop.org/resources/Article/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article>.
+<https://kgb-workshop.org/resources/Article/5> <http://schema.org/name> "Mapping languages: analysis of comparative characteristics".
+<https://kgb-workshop.org/resources/Article/5> <http://schema.org/review> <https://openreview.net/forum?id=HklWL4erv4>.
+<https://kgb-workshop.org/resources/Article/5> <https://kgb-workshop.org/paperType> "Position Paper".
+<https://kgb-workshop.org/resources/Author/lars-heling> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Author>.
+<https://kgb-workshop.org/resources/Author/lars-heling> <http://schema.org/name> "Lars Heling".
+<https://kgb-workshop.org/resources/Author/lars-heling> <http://schema.org/author> <https://kgb-workshop.org/resources/Article/1>.
+<https://kgb-workshop.org/resources/Author/felix-bensmann> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Author>.
+<https://kgb-workshop.org/resources/Author/felix-bensmann> <http://schema.org/name> "Felix Bensmann".
+<https://kgb-workshop.org/resources/Author/felix-bensmann> <http://schema.org/author> <https://kgb-workshop.org/resources/Article/1>.
+<https://kgb-workshop.org/resources/Author/benjamin-zapilko> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Author>.
+<https://kgb-workshop.org/resources/Author/benjamin-zapilko> <http://schema.org/name> "Benjamin Zapilko".
+<https://kgb-workshop.org/resources/Author/benjamin-zapilko> <http://schema.org/author> <https://kgb-workshop.org/resources/Article/1>.
+<https://kgb-workshop.org/resources/Author/maribel-acosta> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Author>.
+<https://kgb-workshop.org/resources/Author/maribel-acosta> <http://schema.org/name> "Maribel Acosta".
+<https://kgb-workshop.org/resources/Author/maribel-acosta> <http://schema.org/author> <https://kgb-workshop.org/resources/Article/1>.
+<https://kgb-workshop.org/resources/Author/york-sure-vetter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Author>.
+<https://kgb-workshop.org/resources/Author/york-sure-vetter> <http://schema.org/name> "York Sure-Vetter".
+<https://kgb-workshop.org/resources/Author/york-sure-vetter> <http://schema.org/author> <https://kgb-workshop.org/resources/Article/1>.
+<https://kgb-workshop.org/resources/Author/daniela-oliveira> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Author>.
+<https://kgb-workshop.org/resources/Author/daniela-oliveira> <http://schema.org/name> "Daniela Oliveira".
+<https://kgb-workshop.org/resources/Author/daniela-oliveira> <http://schema.org/author> <https://kgb-workshop.org/resources/Article/2>.
+<https://kgb-workshop.org/resources/Author/ratnesh-sahay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Author>.
+<https://kgb-workshop.org/resources/Author/ratnesh-sahay> <http://schema.org/name> "Ratnesh Sahay".
+<https://kgb-workshop.org/resources/Author/ratnesh-sahay> <http://schema.org/author> <https://kgb-workshop.org/resources/Article/2>.
+<https://kgb-workshop.org/resources/Author/mathieu-daquin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Author>.
+<https://kgb-workshop.org/resources/Author/mathieu-daquin> <http://schema.org/name> "Mathieu d'Aquin".
+<https://kgb-workshop.org/resources/Author/mathieu-daquin> <http://schema.org/author> <https://kgb-workshop.org/resources/Article/2>.
+<https://kgb-workshop.org/resources/Author/thorsten-liebig> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Author>.
+<https://kgb-workshop.org/resources/Author/thorsten-liebig> <http://schema.org/name> "Thorsten Liebig".
+<https://kgb-workshop.org/resources/Author/thorsten-liebig> <http://schema.org/author> <https://kgb-workshop.org/resources/Article/3>.
+<https://kgb-workshop.org/resources/Author/andreas-maisenbache> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Author>.
+<https://kgb-workshop.org/resources/Author/andreas-maisenbache> <http://schema.org/name> "Andreas Maisenbache".
+<https://kgb-workshop.org/resources/Author/andreas-maisenbache> <http://schema.org/author> <https://kgb-workshop.org/resources/Article/3>.
+<https://kgb-workshop.org/resources/Author/michael-opitz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Author>.
+<https://kgb-workshop.org/resources/Author/michael-opitz> <http://schema.org/name> "Michael Opitz".
+<https://kgb-workshop.org/resources/Author/michael-opitz> <http://schema.org/author> <https://kgb-workshop.org/resources/Article/3>.
+<https://kgb-workshop.org/resources/Author/jan-r-seyler> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Author>.
+<https://kgb-workshop.org/resources/Author/jan-r-seyler> <http://schema.org/name> "Jan R. Seyler".
+<https://kgb-workshop.org/resources/Author/jan-r-seyler> <http://schema.org/author> <https://kgb-workshop.org/resources/Article/3>.
+<https://kgb-workshop.org/resources/Author/gunther-sudra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Author>.
+<https://kgb-workshop.org/resources/Author/gunther-sudra> <http://schema.org/name> "Gunther Sudra".
+<https://kgb-workshop.org/resources/Author/gunther-sudra> <http://schema.org/author> <https://kgb-workshop.org/resources/Article/3>.
+<https://kgb-workshop.org/resources/Author/jens-wissmann> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Author>.
+<https://kgb-workshop.org/resources/Author/jens-wissmann> <http://schema.org/name> "Jens Wissmann".
+<https://kgb-workshop.org/resources/Author/jens-wissmann> <http://schema.org/author> <https://kgb-workshop.org/resources/Article/3>.
+<https://kgb-workshop.org/resources/Author/elias-karle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Author>.
+<https://kgb-workshop.org/resources/Author/elias-karle> <http://schema.org/name> "Elias Kärle".
+<https://kgb-workshop.org/resources/Author/elias-karle> <http://schema.org/author> <https://kgb-workshop.org/resources/Article/4>.
+<https://kgb-workshop.org/resources/Author/umutcan-simsek> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Author>.
+<https://kgb-workshop.org/resources/Author/umutcan-simsek> <http://schema.org/name> "Umutcan Şimşek".
+<https://kgb-workshop.org/resources/Author/umutcan-simsek> <http://schema.org/author> <https://kgb-workshop.org/resources/Article/4>.
+<https://kgb-workshop.org/resources/Author/dieter-fensel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Author>.
+<https://kgb-workshop.org/resources/Author/dieter-fensel> <http://schema.org/name> "Dieter Fensel".
+<https://kgb-workshop.org/resources/Author/dieter-fensel> <http://schema.org/author> <https://kgb-workshop.org/resources/Article/4>.
+<https://kgb-workshop.org/resources/Author/ben-de-meester> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Author>.
+<https://kgb-workshop.org/resources/Author/ben-de-meester> <http://schema.org/name> "Ben De Meester".
+<https://kgb-workshop.org/resources/Author/ben-de-meester> <http://schema.org/author> <https://kgb-workshop.org/resources/Article/5>.
+<https://kgb-workshop.org/resources/Author/pieter-heyvaert> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Author>.
+<https://kgb-workshop.org/resources/Author/pieter-heyvaert> <http://schema.org/name> "Pieter Heyvaert".
+<https://kgb-workshop.org/resources/Author/pieter-heyvaert> <http://schema.org/author> <https://kgb-workshop.org/resources/Article/5>.
+<https://kgb-workshop.org/resources/Author/ruben-verborgh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Author>.
+<https://kgb-workshop.org/resources/Author/ruben-verborgh> <http://schema.org/name> "Ruben Verborgh".
+<https://kgb-workshop.org/resources/Author/ruben-verborgh> <http://schema.org/author> <https://kgb-workshop.org/resources/Article/5>.
+<https://kgb-workshop.org/resources/Author/anastasia-dimou> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Author>.
+<https://kgb-workshop.org/resources/Author/anastasia-dimou> <http://schema.org/name> "Anastasia Dimou".
+<https://kgb-workshop.org/resources/Author/anastasia-dimou> <http://schema.org/author> <https://kgb-workshop.org/resources/Article/5>.

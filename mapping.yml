@@ -1,5 +1,6 @@
 prefixes:
   ov: http://open.vocab.org/terms/
+  kgb: https://kgb-workshop.org/
 
 mappings:
   workshops:
@@ -69,3 +70,29 @@ mappings:
       - [schema:email, $(email)]
       - [schema:jobTitle, $(role)]
       - [http://example.org/linkedin, $(linkedin)]
+
+  papers:
+    sources:
+      - ['csv/accepted-papers.csv~csv']
+    s: https://kgb-workshop.org/resources/Article/$(id)
+    po:
+      - [a, schema:Article]
+      - [schema:name, $(title)]
+      - [schema:review, $(review)~iri]
+      - [kgb:paperType, $(type)]
+
+  authors:
+    sources:
+      - ['csv/authors.csv~csv']
+    s: https://kgb-workshop.org/resources/Author/$(id)
+    po:
+      - [a, schema:Author]
+      - [schema:name, $(name)]
+      - p: schema:author
+        o:
+         - mapping: papers
+           condition:
+            function: equal
+            parameters:
+              - [str1, $(paper)]
+              - [str2, $(id)]
