@@ -388,7 +388,7 @@
 :pm_34 rr:constant rdf:type.
 :pom_34 rr:objectMap :om_34.
 :om_34 a rr:ObjectMap;
-    rr:constant "http://schema.org/Author";
+    rr:constant "http://schema.org/Person";
     rr:termType rr:IRI.
 :pom_35 a rr:PredicateObjectMap.
 :map_authors_0 rr:predicateObjectMap :pom_35.
@@ -403,13 +403,22 @@
 :map_authors_0 rr:predicateObjectMap :pom_36.
 :pm_36 a rr:PredicateMap.
 :pom_36 rr:predicateMap :pm_36.
-:pm_36 rr:constant <http://schema.org/author>.
+:pm_36 rr:constant kgb:authorOrder.
 :pom_36 rr:objectMap :om_36.
+:om_36 a rr:ObjectMap;
+    rml:reference "authorNumber";
+    rr:termType rr:Literal.
+:pom_37 a rr:PredicateObjectMap.
+:map_authors_0 rr:predicateObjectMap :pom_37.
+:pm_37 a rr:PredicateMap.
+:pom_37 rr:predicateMap :pm_37.
+:pm_37 rr:constant <http://schema.org/author>.
+:pom_37 rr:objectMap :om_37.
 :om_7 a rr:ObjectMap;
     rr:parentTriplesMap :map_dates_0.
 :om_8 a rr:ObjectMap;
     rr:parentTriplesMap :map_organizers_0.
-:om_36 a rr:ObjectMap;
+:om_37 a rr:ObjectMap;
     rr:parentTriplesMap :map_papers_0;
     rr:joinCondition :jc_0.
 :jc_0 rr:child "paper";

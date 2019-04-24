@@ -86,8 +86,9 @@ mappings:
       - ['csv/authors.csv~csv']
     s: https://kgb-workshop.org/resources/Author/$(id)
     po:
-      - [a, schema:Author]
+      - [a, schema:Person]
       - [schema:name, $(name)]
+      - [kgb:authorOrder, $(authorNumber)]
       - p: schema:author
         o:
          - mapping: papers
